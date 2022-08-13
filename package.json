@@ -1,0 +1,11 @@
+{
+  "name": "use-copy-clipboard",
+  "version": "1.0.0",
+  "description": "library for copy text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilham89",
+  "license": "ISC"
+}
