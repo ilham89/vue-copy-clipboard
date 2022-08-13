@@ -1,0 +1,18 @@
+{
+    "name": "use-copy-clipboard",
+    "version": "1.0.3",
+    "description": "library for copy text",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ilham89/vue-copy-clipboard.git"
+    },
+    "keywords": [
+        "Vue Copy Clipboard"
+    ],
+    "author": "ilham89",
+    "license": "ISC"
+}
